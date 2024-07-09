@@ -22,11 +22,11 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: "555669522523357184",
   botInvite: "",
   supportServer: "",
   mongodbURL: "",
-  status: 'GlaceYT',
+  status: 'XenonMusic',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
